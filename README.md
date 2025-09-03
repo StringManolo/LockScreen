@@ -5,7 +5,7 @@ Non Root Screen locker.
 Lock your phone with an independ opensource lock screen without root privileges.  
   
 
-Defualt pin is 1234. 
+Default pin is 1234. 
   
 
 ## IMPORTANT  
@@ -36,9 +36,26 @@ There is no backdoors or master PIN. So i will be unable to help you if you chan
 - Apps -> Manage Apps -> ScreenLock... -> Battery Saver -> No Restrictions
 - Apps -> Manage Apps -> ScreenLock... -> Other Permissions -> Display pop-up windows while running in the background -> Always allow
 
+#### Xiaomi Android 15
+- Apps -> Manage Apps -> ScreenLock... -> Other Permissions -> (Allow all permissions here)
+- Apps -> Manage Apps -> ScreenLock... -> Allow restricted permissions
+
 ##### Tested Devices:
 - Huawei P40 (ANDROID 10 EU stock ROM) 
 - Xiaomi Redmi 9AT (ANDROID 10 EU stock ROM) 
 - Google Pixel 5 (ANDROID 11 USA stock ROM)
 - Pixel 6 Pro (ANDROID 12 USA Stock ROM)
 - EMULATED (ANDROID 7 CUSTOM CHINESE ROM) 
+
+##### Bugged:
+- Android 11 and 11 - 15
+##### Android 11+
+- Button Numbers show as loading
+
+##### Android 12+
+- Printed layout is to small (do not scale properly in size to fit screen
+
+##### Android 15
+- Change PIN and UNLOCK buttons are not showing, crash button does.
+
+
