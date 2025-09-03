@@ -53,7 +53,7 @@ There is no backdoors or master PIN. So i will be unable to help you if you chan
 - Button Numbers show as loading
 
 ##### Android 12+
-- Printed layout is to small (do not scale properly in size to fit screen
+- Printed layout is to small (does not scale properly in size to fit screen)
 
 ##### Android 15
 - Change PIN and UNLOCK buttons are not showing, crash button does.
