@@ -5,8 +5,9 @@
 
     <application
         android:allowBackup="true"
-        android:label="screenlock.io.github.stringmanolo"
-        android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        android:icon="@drawable/lockscreen" android:label="ScreenLock"
+        android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen">
+
 
         <activity
             android:name=".MainActivity"

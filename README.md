@@ -8,6 +8,12 @@ Defualt pin is 1234. Change it.
 ## IMPORTANT
 Test the app using the version that includes the crash button, so you don't get locked out of the phone if there is any buf with the GUI. If everything works fine, then install the non crash button version. Be very carefull cuz you can get locked out of your phone. If you do, you need to connect to a PC and uninstall the apk.
 
+### Downloads
+- Version with crash button (use this to test the app)
+[Download ScreenLock - Crash Version](https://github.com/stringmanolo) 
+
+- Final Version (use this only if the app works properly on your smartphone)
+[Download ScreenLock](https://github.com/stringmanolo)
 ### Instructions
 
 #### Huawei Android 10
