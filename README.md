@@ -47,7 +47,7 @@ There is no backdoors or master PIN. So i will be unable to help you if you chan
 - Pixel 6 Pro (ANDROID 12 USA Stock ROM)
 - EMULATED (ANDROID 7 CUSTOM CHINESE ROM) 
 
-##### Bugged:
+### Known Bugs:
 - Android 11 and 11 - 15
 ##### Android 11+
 - Button Numbers show as loading
@@ -57,5 +57,7 @@ There is no backdoors or master PIN. So i will be unable to help you if you chan
 
 ##### Android 15
 - Change PIN and UNLOCK buttons are not showing, crash button does.
+
+**Fixes are being worked on to support all devices and systems**
 
 
